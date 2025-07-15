@@ -2,10 +2,9 @@
 
 **Infraestrutura | DevOps | IaC | Virtualização | Cybersec**
 
-<p align="center">
+<p align="left">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=nerimarcelo&label=Profile%20views&color=0e75b6&style=flat-square" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/nerimarcelo?label=Followers&style=flat-square&color=0e75b6" />
-  <img alt="Status" src="https://img.shields.io/badge/Status-Building%20Awesome%20Systems-flat-square?color=0e75b6" />
 </p>
 
 ## 🚀 Sobre Mim
@@ -28,8 +27,6 @@ done
 💬 Mentorias: Linux, Shell Script, IaC e Segurança
 
 ⚡ Curiosidade: Transformo café em código e problemas em soluções!
-
-
 
 ## 🌐 Conecte-se Comigo
 
@@ -74,11 +71,8 @@ done
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nerimarcelo&theme=dark&hide_border=true" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerimarcelo&theme=dark&hide_border=true&layout=compact&langs_count=6" />
 </div>
-<p align="center">
-  <a href="https://github.com/nerimarcelo">
-    <img alt="Visits Badge" src="https://badges.pufler.dev/visits/nerimarcelo/nerimarcelo?color=blue&style=flat-square" />
-  </a>
-</p>
+
+---
 
 <p align="center">
   <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer&fontSize=24&text=Obrigado%20pela%20visita!&desc=Vamos%20construir%20sistemas%20resilientes%20juntos&descAlignY=70" />
